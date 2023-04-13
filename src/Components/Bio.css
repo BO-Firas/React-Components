@@ -1,0 +1,10 @@
+  @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+.Bio{
+    width: 64%;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: 'Lato', sans-serif;
+    color: #212529;
+}
